@@ -25,12 +25,18 @@ class App extends Component {
   // }
   render() {
     return (
+<<<<<<< HEAD
       <div>
         <header />
         <h1> Welcome To The Movie Page</h1>
         <h1>hello</h1>
        </div>
 
+=======
+      <div className="App">
+        <h1>hello from the branch</h1>
+      </div>
+>>>>>>> develop_omar
     );
   }
 }
