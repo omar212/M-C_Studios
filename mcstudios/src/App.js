@@ -28,6 +28,7 @@ class App extends Component {
       <div>
         <header />
         <h1> Welcome To The Movie Page</h1>
+        <h1>hello</h1>
        </div>
 
     );
