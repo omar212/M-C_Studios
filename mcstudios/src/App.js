@@ -10,6 +10,8 @@ import StyledFirebaseAuth from "react-firebaseui/StyledFirebaseAuth";
 //   authDomain: "login-form-try-2.firebaseapp.com"
 // })
 
+
+
 class App extends Component {
   // state = { isSignedIn: false }
   // uiConfig = {
@@ -25,12 +27,11 @@ class App extends Component {
   // }
   render() {
     return (
-      <div>
-        <header />
-        <h1> Welcome To The Movie Page</h1>
-        <h1>hello</h1>
-       </div>
-
+        <div>
+          <header />
+          <h1> Welcome To The Movie Page</h1>
+          <h1>hello</h1>
+        </div>
     );
   }
 }
